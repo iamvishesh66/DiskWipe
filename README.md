@@ -1,6 +1,6 @@
 <h1>Disk Sanitization using JWipe</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
 <h2>Description</h2>
 The project entails a user-guided PowerShell script for securely wiping connected drives, allowing users to select the target disk and set the desired number of passes for sanitization through Diskpart.
