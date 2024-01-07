@@ -1,4 +1,3 @@
-# DiskWipe
 <h1>Disk Sanitization using JWipe</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
