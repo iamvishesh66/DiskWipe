@@ -20,7 +20,7 @@ The project entails a user-guided PowerShell script for securely wiping connecte
 
 <p align="center">
 Launch the utility: <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ZFA9qOr.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
